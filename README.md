@@ -4,7 +4,7 @@ iCard-Resume is a theme built on top of bootstrap and other freely available lib
 
 ## Demo
 -------
-You can see the live demo of [iCard-Resume](http://ddbullfrog.com/iCard-Resume)
+You can see the live demo of [iCard-Resume](https://ddbullfrog.github.io/iCard-Resume)
 
 This is the web page on desktop browser.
 
@@ -13,7 +13,7 @@ This is the web page on desktop browser.
 ## Getting Started
 -------
 - [Fork this repository](https://github.com/ddbullfrog/iCard-Resume/fork)
-- Clone it: `git clone https://github.com/YOUR-USER/ddbullfrog.github.io`
+- Clone it: `git clone https://github.com/YOUR-USER/iCard-Resume`
 - Run the jekyll server: `jekyll serve`
 
 You should have a server up and running locally at <http://localhost:4000>.
