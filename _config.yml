@@ -1,9 +1,9 @@
 # Site settings
-title: Dong Liang's CV
+title: JIEYING PENG's resume
 description: ddbullfrog's CV
 favicon: /iCard-Resume/assets/img/avatar.JPG
-baseurl: https://ddbullfrog.github.io/iCard-Resume
-url: https://ddbullfrog.github.io/iCard-Resume
+baseurl: http://jieyingpeng.github.io/resume
+url: http://jieyingpeng.github.io/resume
 rss_url: /iCard-Resume/pages/atom.xml
 
 # Build settings
